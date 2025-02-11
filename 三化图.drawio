@@ -97,52 +97,52 @@
         <mxCell id="kgX0nDSww72TRnQ_sGR9-55" value="制作PPT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-65;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-3" value="在Ubuntu系统下完成ROS的安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-3" value="在Ubuntu系统下完成ROS的安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1130" y="50" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-4" value="复习高数、线代、概率等基础数学知识。看懂代码中的坐标变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-4" value="复习高数、线代、概率等基础数学知识。看懂代码中的坐标变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1130" y="105" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-5" value="安装MoveIt，验证运动学和动力学模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-5" value="安装MoveIt，验证运动学和动力学模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1120" y="165" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-6" value="绪论、机器人应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="55" width="60" height="30" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-6" value="绪论、机器人应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="590" y="95" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-7" value="齐次坐标、矩阵理论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="112.5" width="70" height="30" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-7" value="齐次坐标、矩阵理论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=75;" vertex="1" parent="1">
+          <mxGeometry x="726" y="251" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-8" value="DH-Model、动力学介绍" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-8" value="DH-Model、动力学介绍" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1025" y="165" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-9" value="内外部传感器教学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-9" value="内外部传感器教学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1000" y="230" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-10" value="选用任意一款单片机采集数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-10" value="选用任意一款单片机采集数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1130" y="230" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-11" value="基本预处理算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-11" value="基本预处理算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1010" y="290" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-12" value="能够配置&lt;div&gt;Opencv环境&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-12" value="能够配置&lt;div&gt;Opencv环境&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1120" y="290" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-13" value="激光和视觉SLAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-13" value="激光和视觉SLAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1005" y="337.5" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-14" value="了解SLAM前沿技术，选择任意一个小点研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-14" value="了解SLAM前沿技术，选择任意一个小点研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1150" y="340" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-15" value="Dijstra、人工势场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-15" value="Dijstra、人工势场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1010" y="400" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-16" value="能够跑通ROS&lt;div&gt;中路径仿真&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-16" value="能够跑通ROS&lt;div&gt;中路径仿真&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1130" y="400" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-17" value="基本控制理论、&lt;div&gt;PID控制基础&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-17" value="基本控制理论、&lt;div&gt;PID控制基础&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1010" y="460" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-18" value="能够配置PID参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-18" value="能够配置PID参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1130" y="460" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
