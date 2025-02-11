@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1096" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,13 +62,49 @@
           <mxGeometry x="460" y="450" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-28" value="&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;路径规划&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="330" width="90" height="20" as="geometry" />
+          <mxGeometry x="400" y="325" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-30" value="&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;控制理论&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;rotation=60;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-31" value="&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;SLAM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="378" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-44" value="课前预习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="590" y="155" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-45" value="使用ChatGPT、DeepSeek、&lt;div&gt;豆包等模型&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-46" value="根据“3W”法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="690" y="428" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-48" value="翻转课堂答辩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="350" width="80" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-51" value="查找资料" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-52" value="了解原理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-53" value="推导公式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-54" value="理论验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgX0nDSww72TRnQ_sGR9-55" value="制作PPT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
