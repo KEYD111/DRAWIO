@@ -127,6 +127,24 @@
         <mxCell id="T1doIEQyFVwWhVVJHX3b-12" value="能够配置&lt;div&gt;Opencv环境&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="290" width="110" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-13" value="激光和视觉SLAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="337.5" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-14" value="了解SLAM前沿技术，选择任意一个小点研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="340" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-15" value="Dijstra、人工势场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="400" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-16" value="能够跑通ROS&lt;div&gt;中路径仿真&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="400" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-17" value="基本控制理论、&lt;div&gt;PID控制基础&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="460" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-18" value="能够配置PID参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="460" width="110" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
