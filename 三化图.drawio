@@ -97,6 +97,9 @@
         <mxCell id="kgX0nDSww72TRnQ_sGR9-55" value="制作PPT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-65;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-2" value="传统课堂教学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="486.25" y="80" width="117.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
