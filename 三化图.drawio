@@ -53,7 +53,7 @@
           <mxGeometry x="600" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-25" value="&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;运动学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;动力学&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="370" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-26" value="&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;传感器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;rotation=60;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="547.5" y="450" width="85" height="20" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="460" y="260" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-31" value="&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;SLAM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="380" width="85" height="20" as="geometry" />
+          <mxGeometry x="400" y="378" width="85" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
