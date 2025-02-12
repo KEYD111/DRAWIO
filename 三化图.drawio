@@ -83,7 +83,7 @@
           <mxGeometry x="690" y="428" width="90" height="22" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-48" value="翻转课堂答辩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-35;" parent="1" vertex="1">
-          <mxGeometry x="425" y="155" width="80" height="42" as="geometry" />
+          <mxGeometry x="428" y="152" width="80" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kgX0nDSww72TRnQ_sGR9-51" value="查找资料" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
           <mxGeometry x="590" y="525" width="70" height="30" as="geometry" />
@@ -134,16 +134,16 @@
           <mxGeometry x="160" y="470" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-15" value="Dijstra、人工势场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-70;" parent="1" vertex="1">
-          <mxGeometry x="220" y="244.5" width="160" height="16" as="geometry" />
+          <mxGeometry x="219" y="245.5" width="160" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-16" value="能够跑通ROS&lt;div&gt;中路径仿真&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="400" width="110" height="45" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-16" value="能够跑通ROS&lt;div&gt;中路径仿真&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-67;" parent="1" vertex="1">
+          <mxGeometry x="185" y="206" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-17" value="基本控制理论、&lt;div&gt;PID控制基础&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="380" y="87.5" width="150" height="45" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-17" value="基本控制理论、&lt;div&gt;PID控制基础&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=333;" parent="1" vertex="1">
+          <mxGeometry x="361" y="83" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-18" value="能够配置PID参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="395" y="30" width="125" height="45" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-18" value="能够配置PID参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
+          <mxGeometry x="350" y="30" width="125" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
