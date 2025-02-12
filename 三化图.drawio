@@ -104,7 +104,7 @@
           <mxGeometry x="602" y="40" width="185" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-4" value="复习高数、线代、&lt;div&gt;概率等基础数学知识。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=75;" parent="1" vertex="1">
-          <mxGeometry x="760" y="249" width="210" height="30" as="geometry" />
+          <mxGeometry x="768" y="221" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-5" value="安装MoveIt，&lt;div&gt;验证运动学和动力学模型&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-65;" parent="1" vertex="1">
           <mxGeometry x="758" y="463" width="180" height="45" as="geometry" />
@@ -171,6 +171,81 @@
         </mxCell>
         <mxCell id="Qo9rTc8Vc66NQw80wVvB-13" value="教学创新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=315;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-16" value="课程模块化设计" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};opacity=60;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="795" y="-140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=1;strokeColor=#d6b656;exitX=0.75;exitY=0;exitDx=0;exitDy=0;opacity=60;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;gradientColor=#ffd966;" edge="1" target="Qo9rTc8Vc66NQw80wVvB-16" parent="1" source="kgX0nDSww72TRnQ_sGR9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="-50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="930" y="-50" />
+              <mxPoint x="830" y="-110" />
+              <mxPoint x="930" y="-30" />
+              <mxPoint x="920" y="-30" />
+              <mxPoint x="920" y="-30" />
+              <mxPoint x="840" y="-110" />
+              <mxPoint x="830" y="-120" />
+              <mxPoint x="800" y="-120" />
+              <mxPoint x="900" y="-30" />
+              <mxPoint x="810" y="-50" />
+              <mxPoint x="750" y="-90" />
+              <mxPoint x="950" y="-50" />
+              <mxPoint x="860" y="-110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-21" value="学生：课前预习" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};shadow=0;comic=0;opacity=50;fontFamily=Verdana;fontSize=16;fontColor=default;fillColor=#0069D1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-85" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=1;exitX=1;exitY=0;exitDx=0;exitDy=0;shadow=0;comic=0;opacity=50;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=16;fontColor=default;fillColor=#0069D1;strokeColor=default;spacing=4;arcSize=50;autosize=1;" edge="1" target="Qo9rTc8Vc66NQw80wVvB-21" parent="1" source="kgX0nDSww72TRnQ_sGR9-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="835" y="-26" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-23" value="教师：课堂授课" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};opacity=60;strokeColor=#d79b00;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-33" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;opacity=60;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" edge="1" target="Qo9rTc8Vc66NQw80wVvB-23" parent="1" source="T1doIEQyFVwWhVVJHX3b-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="14" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="810" y="30" />
+              <mxPoint x="830" />
+              <mxPoint x="820" y="10" />
+              <mxPoint x="860" y="40" />
+              <mxPoint x="820" y="30" />
+              <mxPoint x="790" y="40" />
+              <mxPoint x="810" y="10" />
+              <mxPoint x="800" y="14" />
+              <mxPoint x="860" y="50" />
+              <mxPoint x="790" y="30" />
+              <mxPoint x="760" y="70" />
+              <mxPoint x="720" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-25" value="学生：课后拓展" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};opacity=20;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=16;fontColor=light-dark(#000000, #121212);fillColor=#1ba1e2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="892" y="25" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="Qo9rTc8Vc66NQw80wVvB-25" parent="1" source="T1doIEQyFVwWhVVJHX3b-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="833.867245751579" y="183.81399715172688" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="840" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-27" value="老师：教学反思" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};opacity=20;strokeColor=#b85450;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="960" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="Qo9rTc8Vc66NQw80wVvB-27" parent="1" source="Qo9rTc8Vc66NQw80wVvB-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="133" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
