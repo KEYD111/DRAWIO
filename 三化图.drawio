@@ -163,6 +163,15 @@
         <mxCell id="Qo9rTc8Vc66NQw80wVvB-10" value="个性化教学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="730" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-11" value="科研辅助" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=225;" vertex="1" parent="1">
+          <mxGeometry x="235" y="620" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-12" value="职业发展" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="130" y="345" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-13" value="教学创新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=315;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
