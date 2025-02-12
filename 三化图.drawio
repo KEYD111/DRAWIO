@@ -148,6 +148,21 @@
         <mxCell id="T1doIEQyFVwWhVVJHX3b-18" value="能够配置PID参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
           <mxGeometry x="346" y="30" width="125" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-4" value="教学反思" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-37.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-5" value="作业批改" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="787" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-6" value="前沿学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="900" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-9" value="优化备课" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="789.74" y="597.65" width="50.25" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9rTc8Vc66NQw80wVvB-10" value="个性化教学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="730" width="75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
