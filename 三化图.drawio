@@ -118,14 +118,14 @@
         <mxCell id="T1doIEQyFVwWhVVJHX3b-9" value="内外部传感器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
           <mxGeometry x="610" y="590" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-10" value="选用任意一款单片机采集数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-10" value="选用任意一款单片机&lt;div&gt;采集数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
           <mxGeometry x="603" y="640" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-11" value="基本预处理算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-11" value="基本预处理算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=30;" parent="1" vertex="1">
           <mxGeometry x="380" y="590" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-12" value="能够配置&lt;div&gt;Opencv环境&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="290" width="110" height="45" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-12" value="能够配置&lt;div&gt;Opencv环境&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=30;" parent="1" vertex="1">
+          <mxGeometry x="300" y="640" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-13" value="激光和视觉SLAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="225" y="428" width="155" height="32" as="geometry" />
