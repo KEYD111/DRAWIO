@@ -118,8 +118,8 @@
         <mxCell id="T1doIEQyFVwWhVVJHX3b-9" value="内外部传感器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
           <mxGeometry x="610" y="590" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-10" value="选用任意一款单片机采集数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="230" width="110" height="45" as="geometry" />
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-10" value="选用任意一款单片机采集数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-25;" parent="1" vertex="1">
+          <mxGeometry x="603" y="640" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-11" value="基本预处理算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="380" y="590" width="120" height="45" as="geometry" />
