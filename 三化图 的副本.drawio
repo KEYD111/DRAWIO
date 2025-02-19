@@ -136,7 +136,7 @@
         <mxCell id="T1doIEQyFVwWhVVJHX3b-3" value="在Ubuntu系统下&lt;div&gt;完成ROS的安装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=27;" parent="1" vertex="1">
           <mxGeometry x="602" y="40" width="185" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-4" value="复习高数、线代、&lt;div&gt;概率等基础数学知识。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=75;" parent="1" vertex="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-4" value="复习高数、线代、&lt;div&gt;概率等基础数学知识。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=60;" parent="1" vertex="1">
           <mxGeometry x="768" y="221" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-5" value="安装MoveIt，&lt;div&gt;验证运动学和动力学模型&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-65;" parent="1" vertex="1">
