@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="797" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1062" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="T1doIEQyFVwWhVVJHX3b-6" value="绪论、机器人应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=25;" parent="1" vertex="1">
           <mxGeometry x="590" y="95" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T1doIEQyFVwWhVVJHX3b-7" value="齐次坐标、矩阵理论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=70;" parent="1" vertex="1">
+        <mxCell id="T1doIEQyFVwWhVVJHX3b-7" value="齐次坐标、矩阵理论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=60;" parent="1" vertex="1">
           <mxGeometry x="720" y="237.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T1doIEQyFVwWhVVJHX3b-8" value="DH-Model、动力学介绍" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-60;" parent="1" vertex="1">
