@@ -322,7 +322,7 @@
         <mxCell id="qawg3nLFMeleEqiPytrF-98" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-99" value="1、获取本地GPS信号&lt;div&gt;微信小程序申请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-99" value="1、获取本地GPS信号&lt;div&gt;微信小程序申请&lt;/div&gt;&lt;div&gt;2、各种页面显示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-100" value="Vue + Element" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
