@@ -316,7 +316,7 @@
         <mxCell id="qawg3nLFMeleEqiPytrF-96" value="STM32、4G模块&lt;div&gt;各种传感器。&lt;/div&gt;&lt;div&gt;时间本地设置、&lt;/div&gt;&lt;div&gt;定时校正&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-97" value="1、SSM技术&lt;div&gt;2、MVC架构&lt;/div&gt;&lt;div&gt;3、文件服务器&lt;/div&gt;&lt;div&gt;4、MQTT服务器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="-370" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-98" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -380,6 +380,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="-200" as="sourcePoint" />
             <mxPoint x="410" y="-250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-128" value="加事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qawg3nLFMeleEqiPytrF-126">
+          <mxGeometry x="0.1033" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-127" value="Web服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
