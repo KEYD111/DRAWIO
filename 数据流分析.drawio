@@ -322,10 +322,10 @@
         <mxCell id="qawg3nLFMeleEqiPytrF-98" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-99" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-100" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-103" value="硬件端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -389,6 +389,30 @@
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-127" value="Web服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="-395" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-130" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qawg3nLFMeleEqiPytrF-97" target="qawg3nLFMeleEqiPytrF-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="-320" as="sourcePoint" />
+            <mxPoint x="540" y="-370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-131" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qawg3nLFMeleEqiPytrF-97" target="qawg3nLFMeleEqiPytrF-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="-312" as="sourcePoint" />
+            <mxPoint x="650" y="-390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-132" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;PC端&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="-272" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-133" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;移动端&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="-452" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-134" value="Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-135" value="Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-264" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
