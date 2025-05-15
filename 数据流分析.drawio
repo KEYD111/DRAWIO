@@ -313,11 +313,11 @@
         <mxCell id="96" value="System&#xa;version" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="350.9999999999998" y="461" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-96" value="STM32、4G模块&lt;div&gt;各种传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-96" value="STM32、4G模块&lt;div&gt;各种传感器。&lt;/div&gt;&lt;div&gt;时间本地设置、&lt;/div&gt;&lt;div&gt;定时校正&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-97" value="后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="333.5" y="-370" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-98" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.5" y="-190" width="120" height="60" as="geometry" />
@@ -346,11 +346,32 @@
         <mxCell id="qawg3nLFMeleEqiPytrF-109" value="RS 485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="-260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-111" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-112" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="148" y="-330" as="sourcePoint" />
-            <mxPoint x="328" y="-330" as="targetPoint" />
+            <mxPoint x="148" y="-300" as="sourcePoint" />
+            <mxPoint x="328" y="-300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-113" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-365" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-114" value="温湿度各种数据、时间、" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="-385" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-116" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="-360" as="sourcePoint" />
+            <mxPoint x="330" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="-340" as="sourcePoint" />
+            <mxPoint x="150" y="-340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-118" value="发送控制、定时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-342" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
