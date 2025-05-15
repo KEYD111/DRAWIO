@@ -385,6 +385,12 @@
             <mxPoint x="322" y="-292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-123" value="图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170.5" y="-294" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-124" value="POST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="-316" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
