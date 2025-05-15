@@ -382,6 +382,9 @@
             <mxPoint x="410" y="-250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-127" value="Web服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-395" width="76" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
