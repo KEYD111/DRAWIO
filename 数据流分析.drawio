@@ -316,7 +316,7 @@
         <mxCell id="96" value="System&#xa;version" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="350.9999999999998" y="461" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-96" value="STM32、4G模块&lt;div&gt;各种传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-97" value="后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -336,6 +336,9 @@
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-103" value="硬件端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="-380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-106" value="风速采集&lt;div&gt;OLED显示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
