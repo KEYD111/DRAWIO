@@ -316,20 +316,17 @@
         <mxCell id="qawg3nLFMeleEqiPytrF-96" value="STM32、4G模块&lt;div&gt;各种传感器。&lt;/div&gt;&lt;div&gt;时间本地设置、&lt;/div&gt;&lt;div&gt;定时校正&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-97" value="后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qawg3nLFMeleEqiPytrF-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="-370" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-98" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338.5" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="333.5" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-99" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-100" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="-250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-102" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-103" value="硬件端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="-380" width="60" height="30" as="geometry" />
@@ -367,18 +364,6 @@
         <mxCell id="qawg3nLFMeleEqiPytrF-118" value="发送控制、定时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="-342" width="139" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-150" as="sourcePoint" />
-            <mxPoint x="440" y="-200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-150" as="sourcePoint" />
-            <mxPoint x="440" y="-200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="152" y="-292" as="sourcePoint" />
@@ -390,6 +375,12 @@
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-124" value="POST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="208" y="-316" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-126" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qawg3nLFMeleEqiPytrF-98" target="qawg3nLFMeleEqiPytrF-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-200" as="sourcePoint" />
+            <mxPoint x="410" y="-250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
