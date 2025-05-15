@@ -323,10 +323,10 @@
           <mxGeometry x="338.5" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-99" value="移动端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="-390" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-100" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="-250" width="120" height="60" as="geometry" />
+          <mxGeometry x="645" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-102" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="-190" width="60" height="30" as="geometry" />
@@ -345,12 +345,6 @@
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-109" value="RS 485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="-260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qawg3nLFMeleEqiPytrF-112" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="148" y="-300" as="sourcePoint" />
-            <mxPoint x="328" y="-300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-113" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="-365" width="60" height="30" as="geometry" />
