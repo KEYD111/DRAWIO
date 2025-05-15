@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qawg3nLFMeleEqiPytrF-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-410" width="750" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Study&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Preparation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="236" y="236" width="110" height="90" as="geometry" />
         </mxCell>
@@ -320,7 +317,7 @@
           <mxGeometry x="25" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-97" value="后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="333.5" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-98" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.5" y="-190" width="120" height="60" as="geometry" />
@@ -339,6 +336,21 @@
         </mxCell>
         <mxCell id="qawg3nLFMeleEqiPytrF-106" value="风速采集&lt;div&gt;OLED显示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-108" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qawg3nLFMeleEqiPytrF-106" target="qawg3nLFMeleEqiPytrF-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="-220" as="sourcePoint" />
+            <mxPoint x="130" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-109" value="RS 485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qawg3nLFMeleEqiPytrF-111" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="148" y="-330" as="sourcePoint" />
+            <mxPoint x="328" y="-330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
